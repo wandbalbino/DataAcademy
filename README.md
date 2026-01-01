@@ -8,7 +8,9 @@ Se tiver alguma sugestão, dica ou feedback, será um prazer conversar! Pode me 
 
 Vamos aprender juntos! 🚀
 
-#English Version
+---
+
+# English Version
 
 Learning SQL – Journey Log
 This repository documents my step-by-step progress in learning SQL, from basic queries to advanced database management.
